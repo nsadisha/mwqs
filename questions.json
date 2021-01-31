@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "ques": "Can i ever be a wizard?",
+            "ans": ["Yes", "No", "May be", "You are kidding. right?"]
+        },
+        {
+            "ques": "Does he/she loves me?",
+            "ans": ["May be", "Yes", "Never", "He/she is waiting for you.", "No"]
+        },
+        {
+            "ques": "How long do i need to stay as single?",
+            "ans": ["1 year", "2 years", "Single forever", "A week", "Somwone loves you already."]
+        },
+        {
+            "ques": "How many girls/boys secretly loves me?",
+            "ans": ["No one", "Just 1", "100", "20", "9"]
+        }
+    ]
+}
