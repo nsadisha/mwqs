@@ -15,6 +15,10 @@
         {
             "ques": "How many girls/boys secretly loves me?",
             "ans": ["No one", "Just 1", "100", "20", "9"]
+        },
+        {
+            "ques": "How old am i, when i get married?",
+            "ans": ["25 years", "30 years", "18 years", "87 years", "You will never marry."]
         }
     ]
 }
